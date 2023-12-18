@@ -1,0 +1,1 @@
+# JavaScript-O7trainings
